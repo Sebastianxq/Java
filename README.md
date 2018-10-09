@@ -1,9 +1,9 @@
-This Repo contains a collection of Java programs I have worked on throughout my time at UTEP.
+This Repo contains a collection of Java programs I have worked on throughout my time as a programmer. The files contained in this directory are for the most part lab prompts or other programs assigned to me as part of my coursework with the exception of the Inteview Practice folder which contains recrational programs
 
 TODO
-1.) Fix Format
-2.) Upload other CompSec files
-3.) Upload Data Structure Prog
-4.) Upload Elem Data Structure prog
-5.) Upload Intro prog
-6.) Upload OOp progs
+* Fix Format
+* Upload other CompSec files
+* Upload Data Structure Prog
+* Upload Elem Data Structure prog
+* Upload Intro prog
+* Upload OOP progs
