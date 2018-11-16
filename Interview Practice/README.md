@@ -7,3 +7,5 @@ intended functionality with any limitations listed in the description.
 <h1> Resources </h1>
 
 * The resources consulted for gaining these prompts and concepts are listed below as well as in the description of the file.
+  *https://practice.geeksforgeeks.org/problems/longest-substring-containing-1/1
+  *https://codingbat.com/prob/p121193
