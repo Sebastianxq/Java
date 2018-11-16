@@ -29,4 +29,4 @@ class round {
 		   	System.out.print(round(num)+"\n");
 		}
 	}
-}
+} 
