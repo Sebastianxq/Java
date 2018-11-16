@@ -1,20 +1,21 @@
+//Finds all the numbers within a string and returns their sum
 public int sumNumbers(String str) {
-  char[] strArr = str.toCharArray();
-      int total = 0;
+      char[] strArr = str.toCharArray();
+      int sum = 0; 
       for (int i=0;i<strArr.length;i++){
         if (Character.isDigit(strArr[i])){
-          int tempValue = 0;
-          int j=i;
+          int j=i; //Temp i value, used to find a full number
           String fullNumber ="";
+          //Iterates through to ensure all digits are accounted for
           while(j<strArr.length && Character.isDigit(strArr[j])){
              fullNumber +=strArr[j];
              j++;
           }
-          i=j;
-          total += Integer.parseInt(fullNumber);
+          i=j; //Skips past number that was already accounted for
+          sum += Integer.parseInt(fullNumber);
         }
       }
-      return total;
+      return sum;
     }
 
  public static void main(String []args){
