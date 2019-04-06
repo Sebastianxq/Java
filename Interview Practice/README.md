@@ -4,7 +4,7 @@ Many of the programs here are centered around data type/data structure manipulat
 
 <h2> Resources </h2>
 
-* The resources consulted for gaining these prompts and concepts are listed below as well as in the description of the file. 
+The resources consulted for gaining these prompts and concepts are listed below as well as in the description of the file. 
 
 1. https://practice.geeksforgeeks.org
 2. https://codingbat.com/
