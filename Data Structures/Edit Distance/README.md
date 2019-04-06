@@ -1,4 +1,4 @@
-<h1>Note: This program requires the jexcel api in order to run correctly.</h1>
+<h1>NOTE: This program requires the jexcel api in order to run correctly.</h1>
 
 <h2>Introduction</h2>
 	Lab 8 asked us to take in a chart from excel containing a prebuild 2d array of values and compare every string in a separate text file using the in class editDistance algorithm showed then display the maximum distance matching string for each string in the file. The second part asked us to do the same thing, except allow the user to enter a string and then display its maximum match found in the given text file
