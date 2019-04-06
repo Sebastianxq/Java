@@ -1,1 +1,18 @@
-<h1>TBD</h1>
+<h1>Introduction</h1>
+	Lab 2 asked us to create 4 different methods that calculated certain variables that are related to algorithm analysis, specifically finding the input size “n1” when given an input size, it’s running time and the running time of the new input size. Finding the running time “Tn1” when given both input sizes and the original running time. Finding the Big O running time when given 2 inputs sizes and their respective running times and discovering the running time of an algorithm using the master method shortcut and utilizing user inputs for a, b and k,
+  
+<h1>Proposed Solution Design & Implementation</h1>
+Finding n1: Use variables in methods to compact the calculations when converting from logs or powers then store the solution, after algebraic manipulation and calculations, in a solution variable that will be printed in the outcome. The exception to the computations being the “nlogn” case, where instead of using algebra to discover the solution, I had to create an iterative loop that continuously checked if a input size value was greater than the value of the original input size and the running times and then returned that size minus one to account for the highest possible input size.
+Finding Tn1: Similar to finding n1, use internal variables to ensure functionality and readability and then store the solution in a variable that prints at the end.
+Finding Fn: Store n1/n0 in its own calculated variable and then compare that to 6 possible running time base cases, which account for each of the running times required in the lab.  
+Master Method: Implement the definition of the master method, having if and else if conditions for all 3 of the possible outcomes.
+
+<h1>Experimental Results</h1>
+N1 Results: I chose my inputs in a way to test whether each of the possible cases displayed what they should. Trying everything from equal input sizes and to proportional and even sometimes irregular input sizes.  For example, I plugged in the values 1, 1, 2 for n0, Tn1, Tn0 respectively and received the n input for the problem as “2” when ran under O(n) time.
+Tn1 Results: I decided to plug in random values and progress the program until it gave me the solution and then verified that it was correct. For example: I used input 1,5,1 and used the running time 2^n and achieved a Tn1 time of 16 seconds, which corresponded to the correct outcome of the algorithm.
+Fn Results: Much like the n1 and Tn1 methods, I employed values to make sure each of the methods’ outputs were accurate. For example, I condensed n1/n0 into a single variable and then compared it to the values of Tn1/Tn0 when used in each of the running times. If a match occurred, then the system would print a statement for the relevant running time. 
+Master Method: My inputs were selected to test each possible outcome of the master method, the first choice was a=1,b=1,k=1 to obtain a “a=b^k” case which resulted in the correct outcome. My second choice was 1,2,1 which resulted in the “a>b^k” case. Lastly, I used the inputs: 3,2,1 which resulted in the “a<b^k” case.
+Error Handling: Since the main is included in a try/catch block, I attempted to input a value that was not an integer or a double depending on what the field asked. The program was successfully able to handle each error and return a message that informed the user that their choice was incorrect.
+
+<h1>Conclusion</h1>
+In conclusion, while there is not a plethora of variables that are used to find running time in these scenarios, there are a plethora of possible outcomes. Being able to distinguish these outcomes from each other and, similarly, understanding the relationship that some of these methods have with each other is a crucial step in understanding algorithm analysis and it’s place in computer science.
