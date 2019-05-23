@@ -1,6 +1,6 @@
 
 <h2>Objective: </h2>
-The goal of this assignment is to practice one- and two-dimensional arrays.
+The goal of this assignment is to practice 1d and 2d arrays.
 
 <h2>Assignment:</h2>
 A shipping center manages deliveries and stores them in a text file. Each text file only has 3 lines and each line contains n double numbers that represent the dimensions of n boxes. each column represents the length, width, and height of a box.
