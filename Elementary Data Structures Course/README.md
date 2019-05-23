@@ -2,7 +2,9 @@
 Within this directory are labs from the "Elementary Data Structures & Algorithms" Course at UTEP otherwise known as <b>CS2</b>, <b>Programming Principles 2</b> or anything alonge those lines
 
 <h2>What is the purpose of the files in this directory?</h2>
-The files within this directory were all part of prompts assigned to me when I took CS2 and are meant as references for myself and anyone else who may come upon my github. <i>Reminder: Plagiarism is against every colleges code of conduct so please do not copy and paste the source code if you find it useful but, rather, use it as inspiration to create your own code!</i>
+The files within this directory were all part of prompts assigned to me when I took CS2 and are meant as references for myself and anyone else who may come upon my github. 
+
+<u><i>Reminder: Plagiarism is against every colleges code of conduct so please do not copy and paste the source code if you find it useful but, rather, use it as inspiration to create your own code!</i></u>
 
 <h2>How can I learn more about the prompts for the labs?</h2>
 The READMEs within each directory will have the prompt for the labs. 
