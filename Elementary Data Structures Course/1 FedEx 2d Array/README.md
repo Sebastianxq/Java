@@ -23,4 +23,4 @@ Use a 1d array of doubles to store information provided in the input file. No 2d
 Uses a 2d array of doubles to store information provided in an input file. No 1d arrays are allowed and each of the above functions must work 
 
 <h2>Source</h2>
-Hossain, S. (2015). Assignment #3. El Paso, Texas: Utep, CS2401.
+Hossain, S. (2015). Assignment #1. El Paso, Texas: Utep, CS2401.
