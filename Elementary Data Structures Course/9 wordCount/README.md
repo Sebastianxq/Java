@@ -33,7 +33,7 @@ The task can be solved in many ways but you have to make sure that you are using
 following specifications. When you are searching for a word in a dictionary, you cannot
 do a linear search because that will make the whole task very time consuming. You will
 need to make good use of some data structures to make your summary generation
-program fast. Some of the following specifications will help you do that.
+program fast. Some of the following specifications will help you do that. <br><br>
 <ol>
 <li>The name of the main program should be SummaryGen.java. Your program
 must generate five summary files for all five Shakespeare novels/dramas in one
