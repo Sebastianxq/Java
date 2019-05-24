@@ -5,6 +5,5 @@ The files contained in this directory are for the most part lab prompts or other
 TODO
 * Fix Format
 * Upload other CompSec files
-* Upload Elem Data Structure prog
 * Upload Intro prog
 * Upload OOP progs
