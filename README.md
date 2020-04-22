@@ -1,7 +1,5 @@
-The files contained in this directory are for the most part lab prompts or other programs assigned to me as part of my coursework with the exception of the Inteview Practice folder which contains recrational programs.
+# Java
+To learn more about the programs contained within this directory please refer to the READMEs present within each of the project subdirectories.
 
-TODO
-* Fix Format
-* Upload other CompSec files
-* Upload Intro prog
-* Upload OOP progs
+# One of these programs doesn't compile correctly, why?
+Some projects may have been renamed and have not been properly refactored to account for that name change. Please refer to the README in the appropriate directory for more information.
